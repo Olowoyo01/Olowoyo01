@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olowoyo01
 - 👀 I’m interested in work with you
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on the projects given 
+- 💞️ I’m looking forward to collaborate on the projects given 
 - 📫 You can reach me via akinadekuburat@gmail.com or slack @ Kuburat Abiodun 
 
 <!---
